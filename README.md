@@ -11,6 +11,21 @@ Dando o primeiro passo no HTML
  <title>Document</title>
 </head>
 <body>
-
+ <div style="width: 180px;height:120px;
+ backgraund: red;">
+  <div style="width: 60px;height: 60px;
+  backgraund: yellow;float: left;"></div>
+  <div style="width: 60px;height: 60px;
+  backgraund: blue;float: left;"></div>
+  <div style="width: 60px;height: 60px;
+  backgraund: brown;float: left;"></div>
+  <div style="width: 120px;height: 60px;
+  backgraund: purple;float: left;
+  text-align: center;">
+   <p>Black Clover</p>
+  </div>
+  <div style="width: 60px;height: 60px;
+  backgraund: turquoise;float: left;"></div>
+ </div>
 </body>
 </HTML>
