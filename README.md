@@ -9,23 +9,54 @@
  content="width=device-width,
  initial-scale=1.0">
  <title>Document</title>
+ <style>
+  *{
+   margin:0;
+   padding:0;
+  }
+  body{
+   background-image:url();
+   background-size: cover;
+   background-position:
+   top center;
+  }
+  #heading{
+   background: rgba(0 ,0 ,0 ,0.7);
+  }
+
+  #heading div{
+   width:90%;
+   display: flex;
+   justify-content:
+   space-between;
+   margin:0 auto;
+  }
+  #heading .h1 {
+   padding-top: 15px 0;
+   font-size: 20px;
+   text-transform:
+   uppercase;
+   color: #fff;
+  }
+  #heading a {
+   color: #fff;
+   text-decoration: none;
+   font-family: sans-serif;
+  }
+</style>
 </head>
 <body>
- <div style="width: 180px;height:120px;
- backgraund: red;">
-  <div style="width: 60px;height: 60px;
-  backgraund: yellow;float: left;"></div>
-  <div style="width: 60px;height: 60px;
-  backgraund: blue;float: left;"></div>
-  <div style="width: 60px;height: 60px;
-  backgraund: brown;float: left;"></div>
-  <div style="width: 120px;height: 60px;
-  backgraund: purple;float: left;
-  text-align: center;">
-   <p>Black Clover</p>
+ <header id="heading">
+  <div>
+   <h1 class="h1">
+    <a href="#">Netflix</a>
+   </h1>
+
+   <h2 class="h1">
+    <a href="#">Netflix</a>
+   </h2>
   </div>
-  <div style="width: 60px;height: 60px;
-  backgraund: turquoise;float: left;"></div>
- </div>
+ </header>
 </body>
 </HTML>
+
