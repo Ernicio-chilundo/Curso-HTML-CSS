@@ -15,7 +15,7 @@
    padding:0;
   }
   body{
-   background-image:url(https://www.netflix.com/mz/Login);
+   background-image:url(https://images.app.goo.gl/Qh4rMrrggnfJfhGQ7);
    background-size: cover;
    background-position:
    top center;
