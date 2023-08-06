@@ -1,1 +1,1 @@
-print()
+<DOCTYPE HTML>
