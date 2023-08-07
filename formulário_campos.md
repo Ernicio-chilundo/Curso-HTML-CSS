@@ -11,7 +11,7 @@
  </style>
 </head>
 <body>
- <form action="#" metod="get" target="_blank" autocomplete="off">
+ <form action="#" method="get" target="_blank" autocomplete="off">
   <section>
    <h1>Cabeça</h1>
    <p>O formulário</p>
