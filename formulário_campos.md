@@ -77,7 +77,7 @@
    <input type="url" id="url" name="url" placeholder="URL">
   </p>
   <p>
-   <label for="search">Search</label>
+   <label for="search">Search:</label>
    <input type="search" id="search" name="search" placeholder="Sua url">
   </p>
   <p>
