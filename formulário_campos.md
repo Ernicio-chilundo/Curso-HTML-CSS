@@ -21,9 +21,18 @@
    placeholder="Seu nome">
   </p>
   <p>
-   <label for="dv">Sou um dev</label>
-   <input type="checkbox" id="dv" name="dev" value="sim">
+   <label for="dv1">Sou um dev 1:</label>
+   <input type="checkbox" id="dv1" name="dev1" value="sim"><br>
   </p>
- </form>
+  <p>
+   <label for="dev2">Sou um dev backend:</label>
+   <input type="checkbox" id="dev2" name="dev2" value="sim"><br>
+
+  </p>
+   <label for="dev3">Sou um dev frontend:</label>
+   <input type="checkbox" id="dev3" name="dev3" value="sim">
+  <button type="reset">Reset</button>
+  <button type="submit">Enviar</button>
+</form>
 </body>
 </html>
