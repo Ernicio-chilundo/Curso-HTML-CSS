@@ -31,8 +31,10 @@
   </p>
    <label for="dev3">Sou um dev frontend:</label>
    <input type="checkbox" id="dev3" name="dev3" value="sim">
-  <button type="reset">Reset</button>
-  <button type="submit">Enviar</button>
+  <p>
+   <button type="reset">Reset</button>
+   <button type="submit">Enviar</button>
+  </p>
 </form>
 </body>
 </html>
